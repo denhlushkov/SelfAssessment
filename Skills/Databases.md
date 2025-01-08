@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` h 
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` h
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -71,8 +71,8 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle 
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis

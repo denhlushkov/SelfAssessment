@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js h
+  - Stateful and stateless servers 
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks

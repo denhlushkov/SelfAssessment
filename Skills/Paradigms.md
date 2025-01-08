@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming h
+  - Imperative programming h
+  - Structured programming h
   - Non-structured programming
-  - Functional programming
+  - Functional programming k
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming k
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -25,16 +25,16 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition h
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Constructor h
+  - Operator `new` h
+  - Static method h
+  - Method k
+  - Async method h
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields h
+  - Private fields h
   - Field declarations
   - Inheritance
   - Parent class
@@ -49,7 +49,7 @@
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert
+  - Information expert 
   - Creator
   - Controller
   - Indirection

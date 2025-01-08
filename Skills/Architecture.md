@@ -4,8 +4,8 @@
   - Modularity
   - Components
   - Directories
-  - GRASP
-  - SOLID
+  - GRASP h
+  - SOLID h
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 
+  - Quality 
+  - Availability 
+  - Flexibility 
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
