@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases: 🎓 known
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases
   - Object databases
@@ -18,15 +18,15 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data definition language (DDL): 👂 heard
+  - Data manipulation language (DML): 👂 heard
+  - Data query language (DQL): 👂 heard
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
   - Transactions
   - Views
   - Subqueries
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h 
-  - `INSERT` h
-  - `UPDATE` h
-  - `DELETE` h
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
+  - `UPDATE`: 👂 heard
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN` h
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -71,8 +71,8 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle 
-  - MySQL h
+  - Oracle
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
