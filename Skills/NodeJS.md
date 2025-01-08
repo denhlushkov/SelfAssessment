@@ -2,43 +2,43 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js h
-  - Stateful and stateless servers 
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Stateful and stateless servers
+  - Nonblocking I/O and blocking code h
+  - Event loop phases h
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules u
+  - ECMAScript modules k
+  - Module `node:module` k
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach h
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments h
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch h
 - Internal API
   - Streams API
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) k
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -55,8 +55,8 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
-  - Internationalization
+  - Module `node:assert` 
+  - Internationalization 
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
@@ -65,26 +65,26 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) k
+  - TCP/SSL h
+  - UDP h
+  - TLS h
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST h
   - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - Routing h
+  - DoS k
+  - DDoS k
+  - XSS 
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection 
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -103,18 +103,18 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository h
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD h
+  - DTO h
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `error.message` k
+  - `error.stack` h
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks
   - Resource leaks
-  - Data race
+  - Data race 
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

@@ -7,8 +7,8 @@
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases k
+  - Key-value store h
   - Tuple store
   - Graph databases
   - Object databases
@@ -18,15 +18,15 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data definition language (DDL) h
+  - Data manipulation language (DML) h
+  - Data query language (DQL) h
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys h
+  - Foreign keys h
   - Transactions
   - Views
   - Subqueries
@@ -36,7 +36,7 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h 
+  - `SELECT` h
   - `INSERT` h
   - `UPDATE` h
   - `DELETE` h
@@ -71,8 +71,8 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle 
-  - MySQL h
+  - Oracle
+  - MySQL k
   - MariaDB
   - MS SQL Server
   - Redis
